@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wx9ZOGWWkuhEdZsMOaIOAjZOL6WFZJhWF5KggP176sJYlMX+Zdg1lf/uTWUpU2pw0fnK5unFu0cS2ZuGCSFKMg==",
+  "success": true,
+  "projectFilePath": "/Users/manumohan/My World/My Projects/TestApplicationMac/TestUniverseApp/TestUniverseApp.iOS/TestUniverseApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/manumohan/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/manumohan/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/manumohan/.nuget/packages/xamarin.forms/5.0.0.2125/xamarin.forms.5.0.0.2125.nupkg.sha512"
+  ],
+  "logs": []
+}
